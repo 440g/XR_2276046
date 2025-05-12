@@ -75,7 +75,6 @@ crashlytics-build.properties
 StandardAssets_Essentials/
 TerrainSampleAssets/
 .vscode
-*.meta
 Standard Assets/
 StarterAssets/
 TextMesh Pro/
